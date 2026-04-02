@@ -26,7 +26,6 @@
 - **FEM**: Full weak-form derivation → mass + stiffness matrix assembly → IMEX time stepping → activation time metrics + GIF animations.
 - **PINN**: 5-layer tanh network (input: x,y,t) trained on 50k collocation points. Loss = PDE residual + IC + BC.
 - **Benchmark**: PINN matches FEM behavior qualitatively across all Σd configs.
-- **Team**: Innocent Kisoka & Yassine Oueslati (@usi.ch)
 
 ---
 
